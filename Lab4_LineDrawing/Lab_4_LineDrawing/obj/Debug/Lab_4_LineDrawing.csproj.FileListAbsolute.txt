@@ -1,0 +1,20 @@
+E:\Универ\Инженерная Графика\Lab_4_LineDrawing\Lab_4_LineDrawing\obj\Debug\Lab_4_LineDrawing.csprojAssemblyReference.cache
+E:\Универ\Инженерная Графика\Lab_4_LineDrawing\Lab_4_LineDrawing\obj\Debug\Lab_4_LineDrawing.MainForm.resources
+E:\Универ\Инженерная Графика\Lab_4_LineDrawing\Lab_4_LineDrawing\obj\Debug\Lab_4_LineDrawing.Properties.Resources.resources
+E:\Универ\Инженерная Графика\Lab_4_LineDrawing\Lab_4_LineDrawing\obj\Debug\Lab_4_LineDrawing.csproj.GenerateResource.cache
+E:\Универ\Инженерная Графика\Lab_4_LineDrawing\Lab_4_LineDrawing\obj\Debug\Lab_4_LineDrawing.csproj.CoreCompileInputs.cache
+E:\Универ\Инженерная Графика\Lab_4_LineDrawing\Lab_4_LineDrawing\bin\Debug\Lab_4_LineDrawing.exe.config
+E:\Универ\Инженерная Графика\Lab_4_LineDrawing\Lab_4_LineDrawing\bin\Debug\Lab_4_LineDrawing.exe
+E:\Универ\Инженерная Графика\Lab_4_LineDrawing\Lab_4_LineDrawing\bin\Debug\Lab_4_LineDrawing.pdb
+E:\Универ\Инженерная Графика\Lab_4_LineDrawing\Lab_4_LineDrawing\obj\Debug\Lab_4_LineDrawing.exe
+E:\Универ\Инженерная Графика\Lab_4_LineDrawing\Lab_4_LineDrawing\obj\Debug\Lab_4_LineDrawing.pdb
+C:\Users\setup\Downloads\Lab4_LineDrawing\Lab_4_LineDrawing\bin\Debug\Lab_4_LineDrawing.exe.config
+C:\Users\setup\Downloads\Lab4_LineDrawing\Lab_4_LineDrawing\bin\Debug\Lab_4_LineDrawing.exe
+C:\Users\setup\Downloads\Lab4_LineDrawing\Lab_4_LineDrawing\bin\Debug\Lab_4_LineDrawing.pdb
+C:\Users\setup\Downloads\Lab4_LineDrawing\Lab_4_LineDrawing\obj\Debug\Lab_4_LineDrawing.csprojAssemblyReference.cache
+C:\Users\setup\Downloads\Lab4_LineDrawing\Lab_4_LineDrawing\obj\Debug\Lab_4_LineDrawing.MainForm.resources
+C:\Users\setup\Downloads\Lab4_LineDrawing\Lab_4_LineDrawing\obj\Debug\Lab_4_LineDrawing.Properties.Resources.resources
+C:\Users\setup\Downloads\Lab4_LineDrawing\Lab_4_LineDrawing\obj\Debug\Lab_4_LineDrawing.csproj.GenerateResource.cache
+C:\Users\setup\Downloads\Lab4_LineDrawing\Lab_4_LineDrawing\obj\Debug\Lab_4_LineDrawing.csproj.CoreCompileInputs.cache
+C:\Users\setup\Downloads\Lab4_LineDrawing\Lab_4_LineDrawing\obj\Debug\Lab_4_LineDrawing.exe
+C:\Users\setup\Downloads\Lab4_LineDrawing\Lab_4_LineDrawing\obj\Debug\Lab_4_LineDrawing.pdb

@@ -1,0 +1,10 @@
+C:\Users\setup\Desktop\Lab2_WorkText\Lab2_WorkText\bin\Debug\Lab2_WorkText.exe.config
+C:\Users\setup\Desktop\Lab2_WorkText\Lab2_WorkText\bin\Debug\Lab2_WorkText.exe
+C:\Users\setup\Desktop\Lab2_WorkText\Lab2_WorkText\bin\Debug\Lab2_WorkText.pdb
+C:\Users\setup\Desktop\Lab2_WorkText\Lab2_WorkText\obj\Debug\Lab2_WorkText.csprojAssemblyReference.cache
+C:\Users\setup\Desktop\Lab2_WorkText\Lab2_WorkText\obj\Debug\Lab2_WorkText.MainForm.resources
+C:\Users\setup\Desktop\Lab2_WorkText\Lab2_WorkText\obj\Debug\Lab2_WorkText.Properties.Resources.resources
+C:\Users\setup\Desktop\Lab2_WorkText\Lab2_WorkText\obj\Debug\Lab2_WorkText.csproj.GenerateResource.cache
+C:\Users\setup\Desktop\Lab2_WorkText\Lab2_WorkText\obj\Debug\Lab2_WorkText.csproj.CoreCompileInputs.cache
+C:\Users\setup\Desktop\Lab2_WorkText\Lab2_WorkText\obj\Debug\Lab2_WorkText.exe
+C:\Users\setup\Desktop\Lab2_WorkText\Lab2_WorkText\obj\Debug\Lab2_WorkText.pdb

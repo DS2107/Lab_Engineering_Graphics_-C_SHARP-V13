@@ -1,0 +1,10 @@
+E:\Универ\Инженерная Графика\Lab5_BrushesDiagramm\Lab5_BrushesDiagramm\bin\Debug\Lab5_BrushesDiagramm.exe.config
+E:\Универ\Инженерная Графика\Lab5_BrushesDiagramm\Lab5_BrushesDiagramm\bin\Debug\Lab5_BrushesDiagramm.exe
+E:\Универ\Инженерная Графика\Lab5_BrushesDiagramm\Lab5_BrushesDiagramm\bin\Debug\Lab5_BrushesDiagramm.pdb
+E:\Универ\Инженерная Графика\Lab5_BrushesDiagramm\Lab5_BrushesDiagramm\obj\Debug\Lab5_BrushesDiagramm.csprojAssemblyReference.cache
+E:\Универ\Инженерная Графика\Lab5_BrushesDiagramm\Lab5_BrushesDiagramm\obj\Debug\Lab5_BrushesDiagramm.MainForm.resources
+E:\Универ\Инженерная Графика\Lab5_BrushesDiagramm\Lab5_BrushesDiagramm\obj\Debug\Lab5_BrushesDiagramm.Properties.Resources.resources
+E:\Универ\Инженерная Графика\Lab5_BrushesDiagramm\Lab5_BrushesDiagramm\obj\Debug\Lab5_BrushesDiagramm.csproj.GenerateResource.cache
+E:\Универ\Инженерная Графика\Lab5_BrushesDiagramm\Lab5_BrushesDiagramm\obj\Debug\Lab5_BrushesDiagramm.csproj.CoreCompileInputs.cache
+E:\Универ\Инженерная Графика\Lab5_BrushesDiagramm\Lab5_BrushesDiagramm\obj\Debug\Lab5_BrushesDiagramm.exe
+E:\Универ\Инженерная Графика\Lab5_BrushesDiagramm\Lab5_BrushesDiagramm\obj\Debug\Lab5_BrushesDiagramm.pdb

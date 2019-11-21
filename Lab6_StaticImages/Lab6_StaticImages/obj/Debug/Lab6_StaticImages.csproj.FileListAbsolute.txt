@@ -1,0 +1,10 @@
+E:\Универ\Инженерная Графика\Lab6_StaticImages\Lab6_StaticImages\bin\Debug\Lab6_StaticImages.exe.config
+E:\Универ\Инженерная Графика\Lab6_StaticImages\Lab6_StaticImages\bin\Debug\Lab6_StaticImages.exe
+E:\Универ\Инженерная Графика\Lab6_StaticImages\Lab6_StaticImages\bin\Debug\Lab6_StaticImages.pdb
+E:\Универ\Инженерная Графика\Lab6_StaticImages\Lab6_StaticImages\obj\Debug\Lab6_StaticImages.csprojAssemblyReference.cache
+E:\Универ\Инженерная Графика\Lab6_StaticImages\Lab6_StaticImages\obj\Debug\Lab6_StaticImages.StaticImageLab.resources
+E:\Универ\Инженерная Графика\Lab6_StaticImages\Lab6_StaticImages\obj\Debug\Lab6_StaticImages.Properties.Resources.resources
+E:\Универ\Инженерная Графика\Lab6_StaticImages\Lab6_StaticImages\obj\Debug\Lab6_StaticImages.csproj.GenerateResource.cache
+E:\Универ\Инженерная Графика\Lab6_StaticImages\Lab6_StaticImages\obj\Debug\Lab6_StaticImages.csproj.CoreCompileInputs.cache
+E:\Универ\Инженерная Графика\Lab6_StaticImages\Lab6_StaticImages\obj\Debug\Lab6_StaticImages.exe
+E:\Универ\Инженерная Графика\Lab6_StaticImages\Lab6_StaticImages\obj\Debug\Lab6_StaticImages.pdb

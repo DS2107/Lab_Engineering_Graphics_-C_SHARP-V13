@@ -1,0 +1,10 @@
+E:\Google\Универ\Инженерная Графика\Lab2_Function Graphing\Lab2_Function Graphing\bin\Debug\Lab2_Function Graphing.exe.config
+E:\Google\Универ\Инженерная Графика\Lab2_Function Graphing\Lab2_Function Graphing\bin\Debug\Lab2_Function Graphing.exe
+E:\Google\Универ\Инженерная Графика\Lab2_Function Graphing\Lab2_Function Graphing\bin\Debug\Lab2_Function Graphing.pdb
+E:\Google\Универ\Инженерная Графика\Lab2_Function Graphing\Lab2_Function Graphing\obj\Debug\Lab2_Function Graphing.csprojAssemblyReference.cache
+E:\Google\Универ\Инженерная Графика\Lab2_Function Graphing\Lab2_Function Graphing\obj\Debug\Lab2_Function_Graphing.Form1.resources
+E:\Google\Универ\Инженерная Графика\Lab2_Function Graphing\Lab2_Function Graphing\obj\Debug\Lab2_Function_Graphing.Properties.Resources.resources
+E:\Google\Универ\Инженерная Графика\Lab2_Function Graphing\Lab2_Function Graphing\obj\Debug\Lab2_Function Graphing.csproj.GenerateResource.cache
+E:\Google\Универ\Инженерная Графика\Lab2_Function Graphing\Lab2_Function Graphing\obj\Debug\Lab2_Function Graphing.csproj.CoreCompileInputs.cache
+E:\Google\Универ\Инженерная Графика\Lab2_Function Graphing\Lab2_Function Graphing\obj\Debug\Lab2_Function Graphing.exe
+E:\Google\Универ\Инженерная Графика\Lab2_Function Graphing\Lab2_Function Graphing\obj\Debug\Lab2_Function Graphing.pdb
