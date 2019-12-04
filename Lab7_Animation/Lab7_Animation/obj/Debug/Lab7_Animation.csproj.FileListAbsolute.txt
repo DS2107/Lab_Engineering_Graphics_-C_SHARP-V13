@@ -1,0 +1,10 @@
+C:\Users\04-user01\Desktop\Lab7_Animation\Lab7_Animation\bin\Debug\Lab7_Animation.exe.config
+C:\Users\04-user01\Desktop\Lab7_Animation\Lab7_Animation\bin\Debug\Lab7_Animation.exe
+C:\Users\04-user01\Desktop\Lab7_Animation\Lab7_Animation\bin\Debug\Lab7_Animation.pdb
+C:\Users\04-user01\Desktop\Lab7_Animation\Lab7_Animation\obj\Debug\Lab7_Animation.csprojAssemblyReference.cache
+C:\Users\04-user01\Desktop\Lab7_Animation\Lab7_Animation\obj\Debug\Lab7_Animation.Form1.resources
+C:\Users\04-user01\Desktop\Lab7_Animation\Lab7_Animation\obj\Debug\Lab7_Animation.Properties.Resources.resources
+C:\Users\04-user01\Desktop\Lab7_Animation\Lab7_Animation\obj\Debug\Lab7_Animation.csproj.GenerateResource.cache
+C:\Users\04-user01\Desktop\Lab7_Animation\Lab7_Animation\obj\Debug\Lab7_Animation.csproj.CoreCompileInputs.cache
+C:\Users\04-user01\Desktop\Lab7_Animation\Lab7_Animation\obj\Debug\Lab7_Animation.exe
+C:\Users\04-user01\Desktop\Lab7_Animation\Lab7_Animation\obj\Debug\Lab7_Animation.pdb
